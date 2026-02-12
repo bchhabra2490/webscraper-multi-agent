@@ -1,0 +1,8 @@
+# Example prompts file
+# Lines starting with # are ignored
+# Empty lines are ignored
+# You can use JSON array format or newline-separated text
+
+Scrape https://news.ycombinator.com and list the top 5 story titles
+Get the main text content from https://example.com
+What is on the front page of https://python.org?
